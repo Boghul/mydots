@@ -26,8 +26,8 @@ esac
 # ==============================================
 
 # Updating Nobara
-alias nobara-sync='nobara-sync cli'
-alias update='nobara-sync cli'
+alias nobara-sync='sudo nobara-sync cli'
+alias update='sudo nobara-sync cli'
 
 # Navigation
 alias ..='cd ..'
