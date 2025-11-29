@@ -70,6 +70,7 @@ alias dec='cal -m 12'
 # Programms & Co
 # Display system infos
 alias f='fastfetch'
+alias xeno='fastfetch'
 # CLI musicplayer
 alias m='musikcube'
 # Cli filemanger
