@@ -236,7 +236,7 @@ update_prompt() {
     # Display system information on login if fastfetch is available
     # The command lolcat must be installed seperate
     if [[ -n "$PS1" && -z "$TMUX" && -z "$VSCODE_PID" && "$TERM_PROGRAM" != "vscode" ]]; then
-    command -v fastfetch &>/dev/null && fastfetch | lolcat
+    command -v fastfetch &>/dev/null && fastfetch #| lolcat
     # Display system information on login without fastfetch
     else
     printf "\n"
@@ -260,7 +260,7 @@ update_prompt() {
     #curl -s "https://wttr.in/Darmstadt?format=%l+%t+(%f)+%c+%C+%w+%h+%T"
 
     # Bash autosuggestion => https://github.com/akinomyoga/ble.sh
-    source ble.sh/out/ble.sh
+   # source ble.sh/out/ble.sh
 
 # ==============================================
 # SECTION 8: USEFUL COMMANDS
@@ -293,3 +293,4 @@ mkdirg () {
 # 	fi
 # }
 
+source ~/.bashaliase
