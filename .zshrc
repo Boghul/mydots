@@ -103,11 +103,9 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-bash
+#bash
 
 [[ -e ~/.profile ]] && emulate sh -c 'source ~/.bashaliase'
 
 
-fastfetch
-
-
+fastfetch --kitty-icat ~/Bilder/ufo.gif
