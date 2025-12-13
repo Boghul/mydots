@@ -202,7 +202,7 @@ layout {
         // Color of the ring on the active monitor.
         // active-color "#FFAA00"
 
-        active-gradient from="magenta" to="green" then="blue" angle=45 relative-to="workspace-view"
+        active-gradient from="magenta" to="green" angle=45 relative-to="workspace-view"
 
         // Color of the ring on inactive monitors.
         //
