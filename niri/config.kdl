@@ -223,8 +223,7 @@ layout {
         // active-color "#FFAA00"
 
         active-gradient from="orange" to="green" angle=45 in="oklch longer hue"
-
-
+       
         // Color of the ring on inactive monitors.
         //
         // The focus ring only draws around the active window, so the only place
@@ -241,6 +240,7 @@ layout {
         // of the workspace, rather than relative to just the window itself.
         // To do that, set relative-to="workspace-view".
         inactive-gradient from="orange" to="cyan" angle=45 in="oklch longer hue"
+        // inactive-gradient from="#505050" to="#808080" angle=45 relative-to="workspace-view"
     }
 
     // You can also add a border. It's similar to the focus ring, but always visible.
@@ -335,7 +335,7 @@ spawn-sh-at-startup "swaybg -i $NIRICONF/home/xenomorph/Bilder/YautjavsXenomorph
 //Mod+Shift+W { spawn "bash" "/home/xenomorph/Dokumente/niriscripte/swaybg_helper.sh" "-c" "-d" "-f" "/home/xenomorph/Bilder/circulate"; }
 
 // change the window layout
-spawn-at-startup "python3" "/path/to/niri_tile_to_n.py"
+spawn-at-startup "python3" "/home/xenomorph/Dokumente/niriscripte/niri_tile_to_n.py"
 
 hotkey-overlay {
     // Uncomment this line to disable the "Important Hotkeys" pop-up at startup.
