@@ -1,7 +1,6 @@
 This is my collection of dotfiles.
 
 Niri config file in work and will get some changes over time.
-Take a look: 
 
 Open points:
 
