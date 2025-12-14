@@ -3,6 +3,7 @@ This is my collection of dotfiles.
 Niri config under file and will get some changes over time.
 
 Open points:
+
 [ ] clean up the config file for better reading
 
 [X] add multi colored boxes ( more then two colors
