@@ -4,10 +4,15 @@ Niri config under file and will get some changes over time.
 
 Open points:
 [ ] clean up the config file for better reading
+
 [X] add multi colored boxes ( more then two colors
+
 [ ] enable complete dark mode for all windows
+
 [ ] adding some scripts from niri_tweaks (some needs 25.11 Fedora is on 25.08)
+
 [ ] activate window autoamtic where mouse is
+
 [ ] function to change wallpaper easy 
 
 Feel free to download and share :) 
