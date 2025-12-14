@@ -368,7 +368,7 @@ screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
 //  /  /_\  \ /    \|  |/     \\__  \\   __\  |/  _ \ /    \
 // /    |    \   |  \  |  Y Y  \/ __ \|  | |  (  <_> )   |  \
 // \____|__  /___|  /__|__|_|  (____  /__| |__|\____/|___|  /
-//  \/     \/         \/     \/                    \/
+//         \/     \/         \/     \/                    \/
 
 // The wiki explains how to configure individual animations:
 // https://yalter.github.io/niri/Configuration:-Animations
