@@ -1,6 +1,7 @@
 This is my collection of dotfiles.
 
 Niri config file in work and will get some changes over time.
+Take a look: 
 
 Open points:
 
@@ -11,8 +12,6 @@ Open points:
 [ ] enable complete dark mode for all windows
 
 [ ] adding some scripts from niri_tweaks (some needs 25.11 Fedora is on 25.08)
-
-[ ] activate window autoamtic where mouse is
 
 [ ] function to change wallpaper easy 
 
