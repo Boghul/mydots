@@ -1,3 +1,7 @@
+Switched to NixOs so here will nothing change in near future.
+
+
+
 This is my collection of dotfiles.
 
 Niri config file in work and will get some changes over time.
