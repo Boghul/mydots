@@ -12,7 +12,7 @@ Open points:
 
 [X] add multi colored boxes ( more then two colors
 
-[ ] enable complete dark mode for all windows
+[X] enable complete dark mode for all windows
 
 [ ] adding some scripts from niri_tweaks (some needs 25.11 Fedora is on 25.08)
 
