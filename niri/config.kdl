@@ -144,7 +144,7 @@ environment {
     XDG_CURRENT_DESKTOP "niri"
     XDG_MENU_PREFIX "plasma-"  // Required for Dolphin file associations
     QT_QPA_PLATFORM "wayland"
-    GTK_THEME "Nobara"
+    GTK_THEME "Adwaita:dark"
     QT_QPA_PLATFORMTHEME "kde"
     QT_STYLE_OVERRIDE "Darkly"
 }
